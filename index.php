@@ -1,7 +1,7 @@
 <?php
 
-require_once('healthSciencesChildThemePlugin.inc.php');
+require_once('HealthSciencesChildThemePlugin.inc.php');
 
-return new healthSciencesChildThemePlugin();
+return new HealthSciencesChildThemePlugin();
 
 ?>

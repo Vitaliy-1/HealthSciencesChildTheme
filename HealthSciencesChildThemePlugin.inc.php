@@ -2,7 +2,7 @@
 
 import('lib.pkp.classes.plugins.ThemePlugin');
 
-class healthSciencesChildThemePlugin extends ThemePlugin {
+class HealthSciencesChildThemePlugin extends ThemePlugin {
 
 	public function init() {
 		$this->setParent('healthsciencesthemeplugin');
